@@ -1,7 +1,7 @@
-# Robust-IR @ SIGIR 2025: The First Workshop on Robust Information Retrieval
+# The SIGIR 2024 Tutorial: Robust Information Retrieval
 
 
-The website is [here](https://sigir-2025-workshop-on-robust-ir.github.io/).
+The website is [here](https://sigir2024-robust-information-retrieval.github.io/).
 
 
 <!-- The code is adapted from the [Nerfies website](https://nerfies.github.io). -->
